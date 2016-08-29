@@ -1,0 +1,42 @@
+2016-08-29 13:52:44.048 Info   Starting JoyToKey Ver5.7.1
+2016-08-29 13:52:44.048 Info   ExeFile=X:\_apps\JoyToKey_en\JoyToKey_en\JoyToKey.exe
+2016-08-29 13:52:44.048 Info   ConfigDir=X:\_apps\JoyToKey_en\JoyToKey_en\
+2016-08-29 13:52:44.048 Info   IniFile=X:\_apps\JoyToKey_en\JoyToKey_en\JoyToKey.ini
+2016-08-29 13:52:44.048 Info   Windows Version = 6.1
+2016-08-29 13:52:44.050 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#217)
+2016-08-29 13:52:44.050 Info   LicenseKey "" is not valid
+2016-08-29 13:52:44.129 Info   Found a joystick: {5DD02B40-40DA-11E5-8001-444553540000}, Controller (XBOX 360 For Windows), Controller (XBOX 360 For Windows)
+2016-08-29 13:52:44.129 Info   Preferred number = -1
+2016-08-29 13:52:44.129 Info   numAxis = 5
+2016-08-29 13:52:44.129 Info   numPOVs = 1
+2016-08-29 13:52:44.129 Info   numButtons = 10
+2016-08-29 13:52:44.129 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-axeln
+2016-08-29 13:52:44.129 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-axeln
+2016-08-29 13:52:44.129 Info   EnumDeviceObject: Axis offset=8 type=402 name=Y-rotation
+2016-08-29 13:52:44.129 Info   EnumDeviceObject: Axis offset=12 type=302 name=X-rotation
+2016-08-29 13:52:44.129 Info   EnumDeviceObject: Axis offset=16 type=202 name=Z-axeln
+2016-08-29 13:52:44.130 Info   Found a joystick: {A8E4B090-446A-11E5-8001-444553540000}, Controller (XBOX 360 For Windows), Controller (XBOX 360 For Windows)
+2016-08-29 13:52:44.130 Info   Preferred number = -1
+2016-08-29 13:52:44.131 Info   numAxis = 5
+2016-08-29 13:52:44.131 Info   numPOVs = 1
+2016-08-29 13:52:44.131 Info   numButtons = 10
+2016-08-29 13:52:44.131 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-axeln
+2016-08-29 13:52:44.131 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-axeln
+2016-08-29 13:52:44.131 Info   EnumDeviceObject: Axis offset=8 type=402 name=Y-rotation
+2016-08-29 13:52:44.131 Info   EnumDeviceObject: Axis offset=12 type=302 name=X-rotation
+2016-08-29 13:52:44.131 Info   EnumDeviceObject: Axis offset=16 type=202 name=Z-axeln
+2016-08-29 13:52:44.141 Info   Found a joystick: {A61DF160-4036-11E5-8001-444553540000}, NES Controller USB, NES Controller USB
+2016-08-29 13:52:44.141 Info   Preferred number = -1
+2016-08-29 13:52:44.142 Info   numAxis = 2
+2016-08-29 13:52:44.142 Info   numPOVs = 0
+2016-08-29 13:52:44.142 Info   numButtons = 4
+2016-08-29 13:52:44.142 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-axeln
+2016-08-29 13:52:44.142 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-axeln
+2016-08-29 13:52:44.153 Info   DetectJoysticks: Detected 3 joystick(s)
+2016-08-29 13:52:44.156 Info   Joystick 1: Controller (XBOX 360 For Windows)
+2016-08-29 13:52:44.156 Info   Joystick 2: Controller (XBOX 360 For Windows)
+2016-08-29 13:52:44.156 Info   Joystick 3: NES Controller USB
+2016-08-29 13:52:44.156 Info   3 joysticks are detected (Joystick.cpp#115)
+2016-08-29 13:52:44.156 Info   ConfigDir=X:\_apps\JoyToKey_en\JoyToKey_en\*.cfg (ConfigFileManager.cpp#43)
+2016-08-29 13:52:44.158 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2016-08-29 13:52:44.168 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
